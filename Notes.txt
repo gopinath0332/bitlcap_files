@@ -1,0 +1,30 @@
+Template Reference for Web
+
+https://startbootstrap.com/template-overviews/creative
+https://startbootstrap.com/template-overviews/modern-business
+https://startbootstrap.com/template-overviews/heroic-features
+https://startbootstrap.com/template-overviews/business-frontpage
+https://bootstrapmade.com/demo/Reveal/
+
+
+// login / signup
+https://bootsnipp.com/snippets/featured/login-amp-signup-forms-in-panel
+https://bootsnipp.com/snippets/featured/sign-in-sign-up-dual-modal
+https://www.tutorialrepublic.com/snippets/preview.php?topic=bootstrap&file=elegant-modal-login-form-with-avatar-icon
+https://bootsnipp.com/snippets/featured/bootstrap-material-wizard
+https://mdbootstrap.com/docs/jquery/forms/basic/?
+https://mdbootstrap.com/docs/jquery/forms/inputs/
+https://codepen.io/codyhouse/pen/pIrbg - modal 
+https://bootsnipp.com/snippets/featured/custom-login-registration-amp-forgot-password - center button
+
+http://mbootstrap.com/examples/login-3.html -  final
+http://mbootstrap.com/examples/login-1.html
+
+// Sample theme
+https://hometriangle.com/interior-designers
+https://www.timesaverz.com/
+https://www.housejoy.in/
+https://www.helpr.in/index
+https://bro4u.com/ - Final service page design
+https://www.starofservice.in/explore
+https://www.nearbuy.com/offers/chennai
